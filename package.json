@@ -1,0 +1,32 @@
+{
+  "name": "realtime-chat-app-node-express",
+  "version": "1.0.0",
+  "description": "Realtime chat app with rooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBwalley/Realtime-Chat-App-Node-Express.git"
+  },
+  "keywords": [
+    "Nick",
+    "Bwalley"
+  ],
+  "author": "Nick Bwalley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickBwalley/Realtime-Chat-App-Node-Express/issues"
+  },
+  "homepage": "https://github.com/NickBwalley/Realtime-Chat-App-Node-Express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
