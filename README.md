@@ -10,7 +10,7 @@ In addition, you can connect to whichever DB you want, like MongoDB, MySQL, Cass
 ## Without further ado,
 ### Let's dive into this everybody! (Allons-y tout le monde!) :wink:
 
-# STEPS TO INSTALL AND RUN THIS APPLICATION. 
+# INSTRUCTIONS TO INSTALL AND RUN THIS APPLICATION. 
 1. Clone this project on your remote computer. 
 2. Open this project in whichever text editor, preferably VSCode. 
 3. Open your terminal and type: **npm install** #This will download all the node modules that is needed to run this package. 
