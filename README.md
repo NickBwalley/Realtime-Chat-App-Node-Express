@@ -6,6 +6,6 @@ We'll be implementing broadcast receivers and many other features to spice thing
 Am really excited in building this mini-project module and add it to my repertoire. </br>
 #Note.... 
 There's still more to cover, you can build up on this CHATAPP and extra features! </br> 
-Like, connect to whichever DB you want. </br> maybe MongoDB, MySQL, Cassandra, Postgresql or whichever database you prefer. 
+Like, connect to whichever DB you want, like MongoDB, MySQL, Cassandra, Postgresql or whichever database you prefer. 
 ## Without further ado,
 ### Let's dive into this everybody! (Allons-y tout le monde!) :wink:
